@@ -9,7 +9,7 @@
   "secretQuestPrice": 2.5,
   "secretQuestDelivery": "Day1",
   "stealEggTreoPerDay": 2.0,
-  "beli10mPrice": 1.5,
+  "beli10mPrice": 1.0,
   "beli10mDelivery": "Hour12"
  },
  "items": [
@@ -19,8 +19,9 @@
    "delivery": "Minute20",
    "deliveryMinutes": 20,
    "aliases": [
+    "tiger fruit",
     "tiger",
-    "tiger fruit"
+    "tigerfruit"
    ]
   },
   {
@@ -29,8 +30,9 @@
    "delivery": "Minute20",
    "deliveryMinutes": 20,
    "aliases": [
+    "portal fruit",
     "portal",
-    "portal fruit"
+    "portalfruit"
    ]
   },
   {
@@ -67,7 +69,11 @@
    "deliveryMinutes": 60,
    "aliases": [
     "ghoul race",
-    "ghoul v1"
+    "unlock ghoul",
+    "unlock ghoul race",
+    "ghoulrace",
+    "unlockghoul",
+    "unlockghoulrace"
    ]
   },
   {
@@ -77,8 +83,15 @@
    "deliveryMinutes": 60,
    "aliases": [
     "1 trial race v4",
-    "trial race",
-    "trial v4"
+    "trial race v4",
+    "trial v4",
+    "one trial v4",
+    "race v4 trial",
+    "1trialracev4",
+    "trialracev4",
+    "trialv4",
+    "onetrialv4",
+    "racev4trial"
    ]
   },
   {
@@ -87,7 +100,11 @@
    "delivery": "Hour1",
    "deliveryMinutes": 60,
    "aliases": [
-    "berry"
+    "x1 berry",
+    "berry",
+    "custom color",
+    "x1berry",
+    "customcolor"
    ]
   },
   {
@@ -95,10 +112,7 @@
    "price": 1.0,
    "delivery": "Hour1",
    "deliveryMinutes": 60,
-   "aliases": [
-    "5000 candy",
-    "candy corn"
-   ]
+   "aliases": []
   },
   {
    "name": "Get Blue Gear (Mirage Island)",
@@ -106,7 +120,11 @@
    "delivery": "Hour1",
    "deliveryMinutes": 60,
    "aliases": [
-    "blue gear"
+    "blue gear",
+    "mirage island",
+    "mirage",
+    "bluegear",
+    "mirageisland"
    ]
   },
   {
@@ -115,7 +133,11 @@
    "delivery": "Hour1",
    "deliveryMinutes": 60,
    "aliases": [
-    "valkyrie helm"
+    "valkyrie helm",
+    "valkyrie",
+    "rip indra",
+    "valkyriehelm",
+    "ripindra"
    ]
   },
   {
@@ -124,7 +146,9 @@
    "delivery": "Hour1",
    "deliveryMinutes": 60,
    "aliases": [
-    "dark fragment"
+    "dark fragment",
+    "darkbeard",
+    "darkfragment"
    ]
   },
   {
@@ -132,10 +156,7 @@
    "price": 0.99,
    "delivery": "Hour1",
    "deliveryMinutes": 60,
-   "aliases": [
-    "15000 fragment",
-    "15k fragment"
-   ]
+   "aliases": []
   },
   {
    "name": "X1 Cursed Pumpkin Seed",
@@ -144,7 +165,9 @@
    "deliveryMinutes": 60,
    "aliases": [
     "cursed pumpkin seed",
-    "pumpkin seed"
+    "pumpkin seed",
+    "cursedpumpkinseed",
+    "pumpkinseed"
    ]
   },
   {
@@ -153,7 +176,10 @@
    "delivery": "Hour1",
    "deliveryMinutes": 60,
    "aliases": [
-    "mirror fractal"
+    "mirror fractal",
+    "dough king",
+    "mirrorfractal",
+    "doughking"
    ]
   },
   {
@@ -162,7 +188,9 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "hallow scythe"
+    "hallow scythe",
+    "scythe",
+    "hallowscythe"
    ]
   },
   {
@@ -171,17 +199,21 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "cyborg v4"
+    "cyborg v4 full gear",
+    "cyborg v4",
+    "cyborgv4fullgear",
+    "cyborgv4"
    ]
   },
   {
    "name": "Get Soul Guitar",
-   "price": 1.99,
+   "price": 1.5,
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "sgt",
-    "soul guitar"
+    "soul guitar",
+    "guitar",
+    "soulguitar"
    ]
   },
   {
@@ -190,7 +222,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "ghoul v4"
+    "ghoul v4 full gear",
+    "ghoul v4",
+    "ghoulv4fullgear",
+    "ghoulv4"
    ]
   },
   {
@@ -199,8 +234,16 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "train maxed",
-    "v4 train"
+    "v4 train maxed out",
+    "v4 train maxed",
+    "train v4 max",
+    "v4 maxed out",
+    "max out v4",
+    "v4trainmaxedout",
+    "v4trainmaxed",
+    "trainv4max",
+    "v4maxedout",
+    "maxoutv4"
    ]
   },
   {
@@ -209,7 +252,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "buddy sword"
+    "buddy sword",
+    "cake queen",
+    "buddysword",
+    "cakequeen"
    ]
   },
   {
@@ -217,10 +263,7 @@
    "price": 0.99,
    "delivery": "Hour5",
    "deliveryMinutes": 300,
-   "aliases": [
-    "gun mastery",
-    "mastery gun"
-   ]
+   "aliases": []
   },
   {
    "name": "GET RACE SHARK V4 FULL GEAR",
@@ -228,7 +271,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "shark v4"
+    "shark v4 full gear",
+    "shark v4",
+    "sharkv4fullgear",
+    "sharkv4"
    ]
   },
   {
@@ -246,16 +292,22 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "fox lamp"
+    "fox lamp",
+    "foxlamp"
    ]
   },
   {
    "name": "Get Dough v2 - Full Awakening",
-   "price": 2.99,
-   "delivery": "Hour5",
-   "deliveryMinutes": 300,
+   "price": 2.0,
+   "delivery": "Hour2",
+   "deliveryMinutes": 120,
    "aliases": [
-    "dough v2"
+    "dough v2 full awakening",
+    "dough v2",
+    "dough awakening",
+    "doughv2fullawakening",
+    "doughv2",
+    "doughawakening"
    ]
   },
   {
@@ -265,7 +317,10 @@
    "deliveryMinutes": 300,
    "aliases": [
     "true triple katana",
-    "ttk"
+    "triple katana",
+    "ttk",
+    "truetriplekatana",
+    "triplekatana"
    ]
   },
   {
@@ -274,9 +329,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "race shark",
+    "shark v1-v3",
     "shark v1",
-    "shark v3"
+    "sharkv1-v3",
+    "sharkv1"
    ]
   },
   {
@@ -285,7 +341,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "winter sky"
+    "winter sky",
+    "aura winter sky",
+    "wintersky",
+    "aurawintersky"
    ]
   },
   {
@@ -294,9 +353,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
+    "angel v1-v3",
     "angel v1",
-    "angel v3",
-    "race angel"
+    "angelv1-v3",
+    "angelv1"
    ]
   },
   {
@@ -305,7 +365,9 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "spikey trident"
+    "spikey trident",
+    "trident",
+    "spikeytrident"
    ]
   },
   {
@@ -314,7 +376,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "rainbow aura"
+    "rainbow aura",
+    "rainbow haki",
+    "rainbowaura",
+    "rainbowhaki"
    ]
   },
   {
@@ -322,10 +387,7 @@
    "price": 1.5,
    "delivery": "Hour5",
    "deliveryMinutes": 300,
-   "aliases": [
-    "fruit mastery",
-    "mastery fruit"
-   ]
+   "aliases": []
   },
   {
    "name": "Get Race Mink v1-v3",
@@ -333,9 +395,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
+    "mink v1-v3",
     "mink v1",
-    "mink v3",
-    "race mink"
+    "minkv1-v3",
+    "minkv1"
    ]
   },
   {
@@ -344,7 +407,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "human v4"
+    "human v4 full gear",
+    "human v4",
+    "humanv4fullgear",
+    "humanv4"
    ]
   },
   {
@@ -353,8 +419,14 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "duo carry",
-    "trial v4 duo"
+    "trial v4 duo",
+    "duo v4",
+    "v4 duo",
+    "trial v4 carry",
+    "trialv4duo",
+    "duov4",
+    "v4duo",
+    "trialv4carry"
    ]
   },
   {
@@ -363,9 +435,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
+    "human v1-v3",
     "human v1",
-    "human v3",
-    "race human"
+    "humanv1-v3",
+    "humanv1"
    ]
   },
   {
@@ -374,8 +447,11 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
+    "cursed dual katana",
     "cdk",
-    "cursed dual katana"
+    "dual katana",
+    "curseddualkatana",
+    "dualkatana"
    ]
   },
   {
@@ -392,10 +468,7 @@
    "price": 0.99,
    "delivery": "Hour5",
    "deliveryMinutes": 300,
-   "aliases": [
-    "mastery sword",
-    "sword mastery"
-   ]
+   "aliases": []
   },
   {
    "name": "Get Dragon Egg (Prehistoric Island)",
@@ -403,7 +476,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "dragon egg"
+    "dragon egg",
+    "prehistoric island",
+    "dragonegg",
+    "prehistoricisland"
    ]
   },
   {
@@ -412,7 +488,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "angel v4"
+    "angel v4 full gear",
+    "angel v4",
+    "angelv4fullgear",
+    "angelv4"
    ]
   },
   {
@@ -421,7 +500,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "mink v4"
+    "mink v4 full gear",
+    "mink v4",
+    "minkv4fullgear",
+    "minkv4"
    ]
   },
   {
@@ -430,7 +512,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "pure red"
+    "pure red",
+    "aura pure red",
+    "purered",
+    "aurapurered"
    ]
   },
   {
@@ -439,8 +524,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "cyborg race",
-    "unlock cyborg"
+    "unlock cyborg",
+    "unlock race cyborg",
+    "unlockcyborg",
+    "unlockracecyborg"
    ]
   },
   {
@@ -449,7 +536,10 @@
    "delivery": "Hour5",
    "deliveryMinutes": 300,
    "aliases": [
-    "snow white"
+    "snow white",
+    "aura snow white",
+    "snowwhite",
+    "aurasnowwhite"
    ]
   },
   {
@@ -458,7 +548,8 @@
    "delivery": "Hour12",
    "deliveryMinutes": 720,
    "aliases": [
-    "dino hood"
+    "dino hood",
+    "dinohood"
    ]
   },
   {
@@ -467,9 +558,12 @@
    "delivery": "Hour12",
    "deliveryMinutes": 720,
    "aliases": [
-    "draco v1",
     "draco v1-v3",
-    "draco v3"
+    "draco v1",
+    "draco race v1",
+    "dracov1-v3",
+    "dracov1",
+    "dracoracev1"
    ]
   },
   {
@@ -478,7 +572,10 @@
    "delivery": "Hour12",
    "deliveryMinutes": 720,
    "aliases": [
-    "draco v4"
+    "draco v4 full gear",
+    "draco v4",
+    "dracov4fullgear",
+    "dracov4"
    ]
   },
   {
@@ -487,7 +584,8 @@
    "delivery": "Hour12",
    "deliveryMinutes": 720,
    "aliases": [
-    "shark anchor"
+    "shark anchor",
+    "sharkanchor"
    ]
   },
   {
@@ -496,26 +594,26 @@
    "delivery": "Hour12",
    "deliveryMinutes": 720,
    "aliases": [
+    "dark blade v3",
     "dark blade",
-    "dark blade v3"
+    "slayer skin",
+    "darkbladev3",
+    "darkblade",
+    "slayerskin"
    ]
   },
   {
    "name": "Get 10million beli",
-   "price": 1.5,
+   "price": 1.0,
    "delivery": "Hour12",
    "deliveryMinutes": 720,
-   "aliases": [
-    "10 million beli",
-    "10m beli",
-    "beli"
-   ]
+   "aliases": []
   },
   {
    "name": "Get Godhuman",
-   "price": 3.99,
-   "delivery": "Hour5",
-   "deliveryMinutes": 300,
+   "price": 3.0,
+   "delivery": "Day1",
+   "deliveryMinutes": 1440,
    "aliases": [
     "godhuman"
    ]
@@ -526,7 +624,8 @@
    "delivery": "Day1",
    "deliveryMinutes": 1440,
    "aliases": [
-    "leviathan heart"
+    "leviathan heart",
+    "leviathanheart"
    ]
   },
   {
@@ -535,8 +634,13 @@
    "delivery": "Day1",
    "deliveryMinutes": 1440,
    "aliases": [
+    "instinct v2",
     "instinct",
-    "instinct v2"
+    "observation v2",
+    "observation haki v2",
+    "instinctv2",
+    "observationv2",
+    "observationhakiv2"
    ]
   },
   {
@@ -545,7 +649,8 @@
    "delivery": "Hour12",
    "deliveryMinutes": 720,
    "aliases": [
-    "dark coat"
+    "dark coat",
+    "darkcoat"
    ]
   },
   {
@@ -554,7 +659,8 @@
    "delivery": "Day1",
    "deliveryMinutes": 1440,
    "aliases": [
-    "dragon talon"
+    "dragon talon",
+    "dragontalon"
    ]
   },
   {
@@ -563,7 +669,8 @@
    "delivery": "Day1",
    "deliveryMinutes": 1440,
    "aliases": [
-    "sanguine art"
+    "sanguine art",
+    "sanguineart"
    ]
   },
   {
@@ -572,7 +679,8 @@
    "delivery": "Hour12",
    "deliveryMinutes": 720,
    "aliases": [
-    "dragon heart"
+    "dragon heart",
+    "dragonheart"
    ]
   },
   {
@@ -581,7 +689,8 @@
    "delivery": "Hour12",
    "deliveryMinutes": 720,
    "aliases": [
-    "dragon storm"
+    "dragon storm",
+    "dragonstorm"
    ]
   },
   {
@@ -591,7 +700,9 @@
    "deliveryMinutes": 1440,
    "aliases": [
     "freeze hydra",
-    "hydra"
+    "hydra island",
+    "freezehydra",
+    "hydraisland"
    ]
   },
   {
@@ -600,7 +711,11 @@
    "delivery": "Day7",
    "deliveryMinutes": 10080,
    "aliases": [
-    "all belts"
+    "all belts",
+    "dojo quest",
+    "dojo",
+    "allbelts",
+    "dojoquest"
    ]
   },
   {
@@ -609,7 +724,8 @@
    "delivery": "Day7",
    "deliveryMinutes": 10080,
    "aliases": [
-    "tip me"
+    "tip me",
+    "tipme"
    ]
   }
  ]
