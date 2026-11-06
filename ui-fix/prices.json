@@ -1,0 +1,616 @@
+{
+ "version": 1,
+ "currency": "USD",
+ "updated": "2026-11-06",
+ "rules": {
+  "fragmentRateUsdPer20k": 1.0,
+  "levelMaxPrice": 2.5,
+  "levelMaxDelivery": "Day1",
+  "secretQuestPrice": 2.5,
+  "secretQuestDelivery": "Day1",
+  "stealEggTreoPerDay": 2.0,
+  "beli10mPrice": 1.5,
+  "beli10mDelivery": "Hour12"
+ },
+ "items": [
+  {
+   "name": "Tiger Fruit",
+   "price": 1.2,
+   "delivery": "Minute20",
+   "deliveryMinutes": 20,
+   "aliases": [
+    "tiger",
+    "tiger fruit"
+   ]
+  },
+  {
+   "name": "Portal Fruit",
+   "price": 0.4,
+   "delivery": "Minute20",
+   "deliveryMinutes": 20,
+   "aliases": [
+    "portal",
+    "portal fruit"
+   ]
+  },
+  {
+   "name": "Get Saishi",
+   "price": 0.5,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "saishi"
+   ]
+  },
+  {
+   "name": "Get Shizu",
+   "price": 0.5,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "shizu"
+   ]
+  },
+  {
+   "name": "GET Oroshi",
+   "price": 0.5,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "oroshi"
+   ]
+  },
+  {
+   "name": "Get Ghoul Race",
+   "price": 1.5,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "ghoul race",
+    "ghoul v1"
+   ]
+  },
+  {
+   "name": "Get 1 trial race v4",
+   "price": 0.99,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "1 trial race v4",
+    "trial race",
+    "trial v4"
+   ]
+  },
+  {
+   "name": "X1 berry (Custom Color)",
+   "price": 0.1,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "berry"
+   ]
+  },
+  {
+   "name": "5000 Candy corn (Halloween Event)",
+   "price": 1.0,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "5000 candy",
+    "candy corn"
+   ]
+  },
+  {
+   "name": "Get Blue Gear (Mirage Island)",
+   "price": 1.0,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "blue gear"
+   ]
+  },
+  {
+   "name": "Get Valkyrie Helm - Rip indra",
+   "price": 0.99,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "valkyrie helm"
+   ]
+  },
+  {
+   "name": "Get Dark Fragment (Darkbeard)",
+   "price": 0.6,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "dark fragment"
+   ]
+  },
+  {
+   "name": "Get 15k fragment",
+   "price": 0.99,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "15000 fragment",
+    "15k fragment"
+   ]
+  },
+  {
+   "name": "X1 Cursed Pumpkin Seed",
+   "price": 0.2,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "cursed pumpkin seed",
+    "pumpkin seed"
+   ]
+  },
+  {
+   "name": "Get Mirror Fractal - Dough King",
+   "price": 0.99,
+   "delivery": "Hour1",
+   "deliveryMinutes": 60,
+   "aliases": [
+    "mirror fractal"
+   ]
+  },
+  {
+   "name": "Get Hallow Scythe",
+   "price": 1.5,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "hallow scythe"
+   ]
+  },
+  {
+   "name": "GET RACE CYBORG V4 FULL GEAR",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "cyborg v4"
+   ]
+  },
+  {
+   "name": "Get Soul Guitar",
+   "price": 1.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "sgt",
+    "soul guitar"
+   ]
+  },
+  {
+   "name": "Get Race Ghoul V4 Full Gear",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "ghoul v4"
+   ]
+  },
+  {
+   "name": "V4 train maxed out",
+   "price": 2.5,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "train maxed",
+    "v4 train"
+   ]
+  },
+  {
+   "name": "Get Buddy Sword (Cake Queen)",
+   "price": 0.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "buddy sword"
+   ]
+  },
+  {
+   "name": "Get mastery 1-300 (Gun)",
+   "price": 0.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "gun mastery",
+    "mastery gun"
+   ]
+  },
+  {
+   "name": "GET RACE SHARK V4 FULL GEAR",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "shark v4"
+   ]
+  },
+  {
+   "name": "Get tushita + 350mastery",
+   "price": 1.5,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "tushita"
+   ]
+  },
+  {
+   "name": "Get Fox Lamp",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "fox lamp"
+   ]
+  },
+  {
+   "name": "Get Dough v2 - Full Awakening",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "dough v2"
+   ]
+  },
+  {
+   "name": "Get True Triple Katana (Ttk)",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "true triple katana",
+    "ttk"
+   ]
+  },
+  {
+   "name": "Get Race Shark v1-v3",
+   "price": 1.0,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "race shark",
+    "shark v1",
+    "shark v3"
+   ]
+  },
+  {
+   "name": "Get Aura Winter Sky (Haki Color)",
+   "price": 1.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "winter sky"
+   ]
+  },
+  {
+   "name": "Get angel v1-v3",
+   "price": 1.0,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "angel v1",
+    "angel v3",
+    "race angel"
+   ]
+  },
+  {
+   "name": "Get Spikey Trident",
+   "price": 0.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "spikey trident"
+   ]
+  },
+  {
+   "name": "Rainbow Aura - Haki",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "rainbow aura"
+   ]
+  },
+  {
+   "name": "Get 1-300mastery (fruit)",
+   "price": 1.5,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "fruit mastery",
+    "mastery fruit"
+   ]
+  },
+  {
+   "name": "Get Race Mink v1-v3",
+   "price": 1.0,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "mink v1",
+    "mink v3",
+    "race mink"
+   ]
+  },
+  {
+   "name": "Get Race v4 human full gear",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "human v4"
+   ]
+  },
+  {
+   "name": "Get 1 Trial V4 - Duo (Carry)",
+   "price": 1.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "duo carry",
+    "trial v4 duo"
+   ]
+  },
+  {
+   "name": "Get Race Human v1-v3",
+   "price": 1.0,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "human v1",
+    "human v3",
+    "race human"
+   ]
+  },
+  {
+   "name": "Get Cursed Dual Katana (Cdk)",
+   "price": 3.5,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "cdk",
+    "cursed dual katana"
+   ]
+  },
+  {
+   "name": "Get Yama + 350mastery",
+   "price": 1.5,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "yama"
+   ]
+  },
+  {
+   "name": "Get mastery sword (1-300)",
+   "price": 0.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "mastery sword",
+    "sword mastery"
+   ]
+  },
+  {
+   "name": "Get Dragon Egg (Prehistoric Island)",
+   "price": 0.5,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "dragon egg"
+   ]
+  },
+  {
+   "name": "GET RACE ANGEL V4 FULL GEAR",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "angel v4"
+   ]
+  },
+  {
+   "name": "GET RACE MINK V4 FULL GEAR",
+   "price": 2.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "mink v4"
+   ]
+  },
+  {
+   "name": "Get Aura Pure Red (Haki Color)",
+   "price": 1.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "pure red"
+   ]
+  },
+  {
+   "name": "Unlock Race Cyborg",
+   "price": 2.5,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "cyborg race",
+    "unlock cyborg"
+   ]
+  },
+  {
+   "name": "Get Aura Snow White (Haki Color)",
+   "price": 1.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "snow white"
+   ]
+  },
+  {
+   "name": "Get Dino Hood",
+   "price": 3.99,
+   "delivery": "Hour12",
+   "deliveryMinutes": 720,
+   "aliases": [
+    "dino hood"
+   ]
+  },
+  {
+   "name": "Get Draco v1-v3",
+   "price": 3.0,
+   "delivery": "Hour12",
+   "deliveryMinutes": 720,
+   "aliases": [
+    "draco v1",
+    "draco v1-v3",
+    "draco v3"
+   ]
+  },
+  {
+   "name": "Get Draco v4 Full Gear",
+   "price": 4.99,
+   "delivery": "Hour12",
+   "deliveryMinutes": 720,
+   "aliases": [
+    "draco v4"
+   ]
+  },
+  {
+   "name": "Get Shark Anchor",
+   "price": 3.0,
+   "delivery": "Hour12",
+   "deliveryMinutes": 720,
+   "aliases": [
+    "shark anchor"
+   ]
+  },
+  {
+   "name": "Get Dark Blade V3 (Slayer Skin)",
+   "price": 4.0,
+   "delivery": "Hour12",
+   "deliveryMinutes": 720,
+   "aliases": [
+    "dark blade",
+    "dark blade v3"
+   ]
+  },
+  {
+   "name": "Get 10million beli",
+   "price": 1.5,
+   "delivery": "Hour12",
+   "deliveryMinutes": 720,
+   "aliases": [
+    "10 million beli",
+    "10m beli",
+    "beli"
+   ]
+  },
+  {
+   "name": "Get Godhuman",
+   "price": 3.99,
+   "delivery": "Hour5",
+   "deliveryMinutes": 300,
+   "aliases": [
+    "godhuman"
+   ]
+  },
+  {
+   "name": "Get Leviathan Heart",
+   "price": 1.99,
+   "delivery": "Day1",
+   "deliveryMinutes": 1440,
+   "aliases": [
+    "leviathan heart"
+   ]
+  },
+  {
+   "name": "Get Instinct/V2",
+   "price": 3.99,
+   "delivery": "Day1",
+   "deliveryMinutes": 1440,
+   "aliases": [
+    "instinct",
+    "instinct v2"
+   ]
+  },
+  {
+   "name": "Dark coat (Boosting)",
+   "price": 6.99,
+   "delivery": "Hour12",
+   "deliveryMinutes": 720,
+   "aliases": [
+    "dark coat"
+   ]
+  },
+  {
+   "name": "Get Dragon Talon",
+   "price": 1.0,
+   "delivery": "Day1",
+   "deliveryMinutes": 1440,
+   "aliases": [
+    "dragon talon"
+   ]
+  },
+  {
+   "name": "Get Sanguine Art",
+   "price": 4.99,
+   "delivery": "Day1",
+   "deliveryMinutes": 1440,
+   "aliases": [
+    "sanguine art"
+   ]
+  },
+  {
+   "name": "Get Dragon Heart",
+   "price": 1.0,
+   "delivery": "Hour12",
+   "deliveryMinutes": 720,
+   "aliases": [
+    "dragon heart"
+   ]
+  },
+  {
+   "name": "Get Dragon Storm",
+   "price": 2.0,
+   "delivery": "Hour12",
+   "deliveryMinutes": 720,
+   "aliases": [
+    "dragon storm"
+   ]
+  },
+  {
+   "name": "Freeze Hydra Island (Unlock The Gate)",
+   "price": 1.99,
+   "delivery": "Day1",
+   "deliveryMinutes": 1440,
+   "aliases": [
+    "freeze hydra",
+    "hydra"
+   ]
+  },
+  {
+   "name": "Get All Belts (dojo quest)",
+   "price": 2.0,
+   "delivery": "Day7",
+   "deliveryMinutes": 10080,
+   "aliases": [
+    "all belts"
+   ]
+  },
+  {
+   "name": "Tip Me",
+   "price": 1.0,
+   "delivery": "Day7",
+   "deliveryMinutes": 10080,
+   "aliases": [
+    "tip me"
+   ]
+  }
+ ]
+}
